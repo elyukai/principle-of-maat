@@ -12,6 +12,7 @@
   "author": "Lukas Obermann, Thorben Dusenstahl",
   "license": "MPL-2.0",
   "devDependencies": {
+    "@types/node": "12.7.5",
     "typescript": "3.6.3"
   }
 }
