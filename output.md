@@ -1,240 +1,359 @@
-Gunst des Totengottes (1): Red, Green
-Gunst des Totengottes (2): Red, Grey
-Gunst des Totengottes (3): Red, Blue
-Gunst des Totengottes (4): Red, Grey
-Gunst des Totengottes (5): Red, Grey
-Gunst des Totengottes (6): Turquoise, Grey
-Gunst des Totengottes (7): Turquoise, Grey
-Gunst des Totengottes (8): Purple, Green
-Gunst des Totengottes (9): Purple, Grey
-Gunst des Totengottes (10): Purple, Grey
-Gunst des Totengottes (11): Turquoise, Green
-Gunst des Totengottes (12): Red, Blue
-Infiltration (1): Purple, Blue
-Infiltration (2): Red, Blue
-Infiltration (3): Red, Green
-Infiltration (4): Turquoise, Grey
-Infiltration (5): Turquoise, Green
-Infiltration (6): Turquoise, Green
-Infiltration (7): Purple, Green
-Infiltration (8): Purple, Green
-Infiltration (9): Turquoise, Green
-Infiltration (10): Turquoise, Green
-Infiltration (11): Turquoise, Grey
-Infiltration (12): Purple, Blue
-Diebstahl (1): Red, Turquoise, Green
-Diebstahl (2): Red, Blue, Grey
-Diebstahl (3): Red, Turquoise, Blue
-Diebstahl (4): Turquoise, Green, Blue
-Diebstahl (5): Red, Purple, Green
-Diebstahl (6): Red, Green, Blue
-Attentat (1): Turquoise, Turquoise, Green
-Attentat (2): Red, Purple, Grey
-Attentat (3): Purple, Purple, Green
-Attentat (4): Red, Red, Green
-Attentat (5): Purple, Grey, Grey
-Attentat (6): Turquoise, Green, Blue
-Embargo (1): Turquoise, Purple, Grey
-Embargo (2): Purple, Green, Blue
-Embargo (3): Turquoise, Turquoise, Grey
-Embargo (4): Turquoise, Blue, Grey
-Embargo (5): Red, Red, Grey
-Embargo (6): Red, Blue, Grey
-Alle Verzierungen entfernen (1): Red, Red, Blue
-Alle Verzierungen entfernen (2): Turquoise, Blue, Blue
-Alle Verzierungen entfernen (3): Red, Blue, Blue
-Alle Verzierungen entfernen (4): Red, Turquoise, Blue
-Alle Verzierungen entfernen (5): Turquoise, Green, Grey
-Alle Verzierungen entfernen (6): Purple, Blue, Blue
-Alle Verzierungen entfernen (7): Turquoise, Blue, Grey
-Alle Verzierungen entfernen (8): Purple, Purple, Blue
-Alle Verzierungen entfernen (9): Red, Blue, Grey
-Alle Verzierungen entfernen (10): Turquoise, Blue, Grey
-Alle Verzierungen entfernen (11): Red, Purple, Blue
-Alle Verzierungen entfernen (12): Red, Grey, Grey
-Ablass (1): Turquoise, Purple, Grey
-Ablass (2): Red, Blue, Blue
-Ablass (3): Red, Turquoise, Green
-Ablass (4): Turquoise, Purple, Green
-Ablass (5): Red, Green, Blue
-Ablass (6): Purple, Blue, Grey
-Ablass (7): Red, Green, Grey
-Ablass (8): Turquoise, Purple, Grey
-Ablass (9): Red, Red, Blue
-Ablass (10): Turquoise, Purple, Green
-Ablass (11): Turquoise, Purple, Grey
-Ablass (12): Purple, Green, Blue
-Joker (1): Turquoise, Purple, Green
-Joker (2): Red, Green, Grey
-Joker (3): Red, Purple, Grey
-Joker (4): Purple, Purple, Green
-Joker (5): Purple, Grey, Grey
-Joker (6): Red, Turquoise, Blue
-Joker (7): Red, Blue, Blue
-Joker (8): Red, Green, Blue
-Joker (9): Red, Turquoise, Green
-Joker (10): Turquoise, Blue, Blue
-Joker (11): Turquoise, Green, Blue
-Joker (12): Turquoise, Green, Green
-Joker (13): Turquoise, Turquoise, Blue
-Joker (14): Turquoise, Green, Grey
-Joker (15): Purple, Purple, Blue
-Joker (16): Purple, Purple, Blue
-Joker (17): Purple, Blue, Grey
-Joker (18): Red, Grey, Grey
-Joker (19): Turquoise, Green, Blue
-Joker (20): Red, Purple, Grey
-Joker (21): Turquoise, Blue, Grey
-Joker (22): Red, Turquoise, Grey
-Joker (23): Purple, Purple, Grey
-Joker (24): Red, Turquoise, Blue
-Joker (25): Red, Green, Blue
-Joker (26): Turquoise, Grey, Grey
-Joker (27): Red, Purple, Blue
-Joker (28): Red, Grey, Grey
-Joker (29): Turquoise, Green, Blue
-Joker (30): Red, Green, Blue
-Joker (31): Turquoise, Blue, Blue
-Joker (32): Turquoise, Purple, Grey
-Joker (33): Red, Blue, Blue
-Joker (34): Purple, Blue, Blue
-Joker (35): Turquoise, Grey, Grey
-Joker (36): Purple, Purple, Blue
-Joker (37): Turquoise, Green, Blue
-Joker (38): Turquoise, Purple, Grey
-Joker (39): Red, Purple, Blue
-Joker (40): Red, Purple, Grey
-Joker (41): Purple, Blue, Blue
-Joker (42): Purple, Green, Blue
-Joker (43): Red, Green, Blue
-Joker (44): Turquoise, Turquoise, Green
-Joker (45): Purple, Green, Blue
-Joker (46): Red, Purple, Green
-Joker (47): Red, Turquoise, Green
-Joker (48): Red, Red, Grey
-Joker (49): Purple, Green, Grey
-Joker (50): Red, Purple, Blue
-Joker (51): Turquoise, Green, Blue
-Joker (52): Turquoise, Grey, Grey
-Joker (53): Red, Purple, Blue
-Joker (54): Red, Turquoise, Blue
-Joker (55): Purple, Green, Blue
-Joker (56): Turquoise, Green, Blue
-Joker (57): Turquoise, Green, Blue
-Joker (58): Purple, Blue, Grey
-Joker (59): Red, Turquoise, Blue
-Joker (60): Purple, Green, Green
-Joker (61): Turquoise, Grey, Grey
-Joker (62): Turquoise, Blue, Blue
-Joker (63): Turquoise, Grey, Grey
-Joker (64): Red, Green, Blue
-Joker (65): Red, Turquoise, Blue
-Joker (66): Turquoise, Purple, Blue
-Joker (67): Purple, Blue, Grey
-Joker (68): Red, Purple, Grey
-Joker (69): Turquoise, Turquoise, Green
-Joker (70): Turquoise, Green, Grey
-Joker (71): Red, Purple, Grey
-Joker (72): Turquoise, Green, Green
-Joker (73): Red, Turquoise, Blue
-Joker (74): Red, Blue, Grey
-Joker (75): Turquoise, Blue, Grey
-Joker (76): Red, Green, Green
-Joker (77): Turquoise, Purple, Grey
-Joker (78): Purple, Green, Blue
-Joker (79): Turquoise, Purple, Blue
-Joker (80): Red, Purple, Grey
-Joker (81): Turquoise, Purple, Grey
-Joker (82): Red, Turquoise, Grey
-Joker (83): Red, Grey, Grey
-Joker (84): Turquoise, Turquoise, Grey
-Joker (85): Red, Green, Green
-Joker (86): Red, Green, Grey
-Joker (87): Red, Purple, Green
-Joker (88): Purple, Purple, Blue
-Joker (89): Red, Green, Grey
-Joker (90): Turquoise, Purple, Blue
-Joker (91): Turquoise, Grey, Grey
-Joker (92): Purple, Purple, Grey
-Joker (93): Purple, Grey, Grey
-Joker (94): Red, Grey, Grey
-Joker (95): Red, Turquoise, Blue
-Joker (96): Red, Turquoise, Blue
-Joker (97): Red, Green, Blue
-Joker (98): Turquoise, Blue, Grey
-Joker (99): Red, Purple, Grey
-Joker (100): Turquoise, Grey, Grey
-Joker (101): Red, Green, Grey
-Joker (102): Turquoise, Purple, Green
-Joker (103): Red, Turquoise, Grey
-Joker (104): Red, Green, Grey
-Joker (105): Purple, Green, Green
-Joker (106): Red, Green, Green
-Joker (107): Red, Purple, Green
-Joker (108): Turquoise, Green, Green
-Joker (109): Purple, Green, Green
-Joker (110): Red, Green, Blue
-Joker (111): Red, Turquoise, Green
-Joker (112): Red, Purple, Blue
-Joker (113): Turquoise, Purple, Grey
-Joker (114): Purple, Blue, Grey
-Joker (115): Purple, Purple, Grey
-Joker (116): Red, Turquoise, Blue
-Joker (117): Turquoise, Purple, Green
-Joker (118): Red, Purple, Green
-Joker (119): Turquoise, Blue, Blue
-Joker (120): Turquoise, Blue, Grey
-Überfluss (1): Red, Blue, Blue, Blue
-Überfluss (2): Purple, Green, Green, Grey
-Überfluss (3): Purple, Purple, Green, Grey
-Überfluss (4): Red, Turquoise, Turquoise, Green
-Überfluss (5): Red, Purple, Green, Grey
-Überfluss (6): Red, Turquoise, Purple, Green
-Überfluss (7): Turquoise, Turquoise, Blue, Grey
-Überfluss (8): Red, Red, Green, Blue
-Überfluss (9): Turquoise, Purple, Green, Grey
-Überfluss (10): Red, Turquoise, Green, Green
-Überfluss (11): Red, Purple, Green, Green
-Überfluss (12): Red, Red, Red, Blue
-Händler (1): Red, Red, Purple, Green
-Händler (2): Turquoise, Turquoise, Grey, Grey
-Händler (3): Turquoise, Purple, Grey, Grey
-Händler (4): Red, Green, Green, Green
-Händler (5): Red, Turquoise, Green, Blue
-Händler (6): Red, Purple, Blue, Grey
-Händler (7): Red, Turquoise, Purple, Green
-Händler (8): Red, Turquoise, Purple, Green
-Händler (9): Red, Purple, Blue, Grey
-Händler (10): Red, Red, Blue, Blue
-Händler (11): Turquoise, Turquoise, Green, Green
-Händler (12): Purple, Blue, Grey, Grey
-Goldschmied (1): Red, Turquoise, Purple, Blue
-Goldschmied (2): Red, Purple, Blue, Grey
-Goldschmied (3): Red, Turquoise, Purple, Blue
-Goldschmied (4): Red, Turquoise, Turquoise, Grey
-Goldschmied (5): Purple, Green, Green, Blue
-Goldschmied (6): Red, Turquoise, Green, Blue
-Goldschmied (7): Red, Green, Green, Blue
-Goldschmied (8): Turquoise, Blue, Grey, Grey
-Goldschmied (9): Red, Purple, Green, Blue
-Goldschmied (10): Purple, Blue, Blue, Grey
-Goldschmied (11): Purple, Purple, Purple, Green
-Goldschmied (12): Purple, Purple, Grey, Grey
-Zusätzliches Kettenglied ausspielen (1): Red, Turquoise, Green, Grey
-Zusätzliches Kettenglied ausspielen (2): Red, Green, Grey, Grey
-Zusätzliches Kettenglied ausspielen (3): Turquoise, Turquoise, Green, Blue
-Zusätzliches Kettenglied ausspielen (4): Red, Blue, Blue, Grey
-Zusätzliches Kettenglied ausspielen (5): Purple, Purple, Purple, Green
-Zusätzliches Kettenglied ausspielen (6): Turquoise, Purple, Green, Grey
-Zusätzliches Kettenglied ausspielen (7): Red, Turquoise, Purple, Green
-Zusätzliches Kettenglied ausspielen (8): Purple, Purple, Green, Green
-Zusätzliches Kettenglied ausspielen (9): Red, Red, Turquoise, Grey
-Zusätzliches Kettenglied ausspielen (10): Turquoise, Turquoise, Purple, Grey
-Zusätzliches Kettenglied ausspielen (11): Red, Purple, Grey, Grey
-Zusätzliches Kettenglied ausspielen (12): Turquoise, Purple, Green, Grey
-Göttliche Intervention (1): Turquoise, Purple, Purple, Grey
-Göttliche Intervention (2): Red, Blue, Blue, Grey
-Göttliche Intervention (3): Red, Turquoise, Purple, Green
-Göttliche Intervention (4): Turquoise, Purple, Purple, Blue
-Göttliche Intervention (5): Purple, Green, Green, Green
-Göttliche Intervention (6): Red, Turquoise, Green, Grey
+Tag:   Joker        – Blue   – Red, Grey, Grey
+Nacht: Infiltration – Purple – Red, Blue
+
+Tag:   Joker        – Blue – Red, Turquoise, Green
+Nacht: Infiltration – Red  – Red, Grey
+
+Tag:   Joker        – Blue      – Red, Purple, Blue
+Nacht: Infiltration – Turquoise – Purple, Blue
+
+Tag:   Joker               – Green  – Red, Green, Grey
+Nacht: GunstDesTotengottes – Purple – Turquoise, Blue
+
+Tag:   Joker               – Green – Purple, Green, Grey
+Nacht: GunstDesTotengottes – Red   – Turquoise, Grey
+
+Tag:   Joker               – Green     – Turquoise, Purple, Blue
+Nacht: GunstDesTotengottes – Turquoise – Red, Blue
+
+Tag:   Joker               – Grey   – Purple, Grey, Grey
+Nacht: GunstDesTotengottes – Purple – Purple, Green
+
+Tag:   Joker               – Grey – Red, Blue, Blue
+Nacht: GunstDesTotengottes – Red  – Purple, Blue
+
+Tag:   Joker               – Grey      – Red, Green, Green
+Nacht: GunstDesTotengottes – Turquoise – Red, Blue
+
+Tag:   Infiltration – Blue   – Purple, Grey
+Nacht: Joker        – Purple – Red, Turquoise, Grey
+
+Tag:   Infiltration – Green  – Turquoise, Blue
+Nacht: Joker        – Purple – Red, Green, Grey
+
+Tag:   Infiltration – Grey   – Turquoise, Blue
+Nacht: Joker        – Purple – Turquoise, Purple, Green
+
+Tag:   GunstDesTotengottes – Blue – Purple, Green
+Nacht: Joker               – Red  – Turquoise, Green, Blue
+
+Tag:   GunstDesTotengottes – Green – Turquoise, Blue
+Nacht: Joker               – Red   – Red, Blue, Blue
+
+Tag:   GunstDesTotengottes – Grey – Turquoise, Grey
+Nacht: Joker               – Red  – Red, Green, Blue
+
+Tag:   GunstDesTotengottes – Blue      – Purple, Blue
+Nacht: Joker               – Turquoise – Purple, Green, Grey
+
+Tag:   GunstDesTotengottes – Green     – Purple, Grey
+Nacht: Joker               – Turquoise – Red, Purple, Green
+
+Tag:   GunstDesTotengottes – Grey      – Purple, Blue
+Nacht: Joker               – Turquoise – Turquoise, Grey, Grey
+
+Tag:   Joker    – Blue   – Turquoise, Blue, Grey
+Nacht: Attentat – Purple – Red, Blue, Blue
+
+Tag:   Joker    – Blue – Purple, Purple, Green
+Nacht: Attentat – Red  – Turquoise, Purple, Blue
+
+Tag:   Joker    – Blue      – Purple, Grey, Grey
+Nacht: Attentat – Turquoise – Red, Turquoise, Grey
+
+Tag:   Joker     – Green  – Turquoise, Turquoise, Grey
+Nacht: Diebstahl – Purple – Turquoise, Turquoise, Grey
+
+Tag:   Joker     – Green – Purple, Purple, Blue
+Nacht: Diebstahl – Red   – Red, Turquoise, Blue
+
+Tag:   Joker     – Green     – Purple, Purple, Grey
+Nacht: Diebstahl – Turquoise – Red, Green, Grey
+
+Tag:   Joker        – Grey   – Red, Purple, Blue
+Nacht: Infiltration – Purple – Turquoise, Blue
+
+Tag:   Joker        – Grey – Purple, Blue, Grey
+Nacht: Infiltration – Red  – Red, Blue
+
+Tag:   Joker        – Grey      – Red, Purple, Grey
+Nacht: Infiltration – Turquoise – Red, Blue
+
+Tag:   Attentat – Blue   – Turquoise, Green, Blue
+Nacht: Joker    – Purple – Turquoise, Grey, Grey
+
+Tag:   Attentat – Green  – Turquoise, Green, Grey
+Nacht: Joker    – Purple – Red, Grey, Grey
+
+Tag:   Attentat – Grey   – Purple, Green, Blue
+Nacht: Joker    – Purple – Turquoise, Turquoise, Green
+
+Tag:   Diebstahl – Blue – Purple, Blue, Blue
+Nacht: Joker     – Red  – Purple, Green, Grey
+
+Tag:   Diebstahl – Green – Turquoise, Green, Grey
+Nacht: Joker     – Red   – Turquoise, Turquoise, Blue
+
+Tag:   Diebstahl – Grey – Red, Red, Blue
+Nacht: Joker     – Red  – Turquoise, Turquoise, Grey
+
+Tag:   Infiltration – Blue      – Turquoise, Grey
+Nacht: Joker        – Turquoise – Red, Green, Grey
+
+Tag:   Infiltration – Green     – Turquoise, Green
+Nacht: Joker        – Turquoise – Red, Purple, Green
+
+Tag:   Infiltration – Grey      – Purple, Blue
+Nacht: Joker        – Turquoise – Red, Turquoise, Green
+
+Tag:   Joker                     – Blue   – Red, Turquoise, Blue
+Nacht: AlleVerzierungenEntfernen – Purple – Red, Blue, Grey
+
+Tag:   Joker                     – Blue – Turquoise, Turquoise, Green
+Nacht: AlleVerzierungenEntfernen – Red  – Purple, Green, Grey
+
+Tag:   Joker                     – Blue      – Red, Red, Grey
+Nacht: AlleVerzierungenEntfernen – Turquoise – Purple, Green, Blue
+
+Tag:   Joker                     – Green  – Purple, Blue, Blue
+Nacht: AlleVerzierungenEntfernen – Purple – Red, Turquoise, Grey
+
+Tag:   Joker                     – Green – Purple, Blue, Grey
+Nacht: AlleVerzierungenEntfernen – Red   – Red, Purple, Green
+
+Tag:   Joker                     – Green     – Red, Green, Grey
+Nacht: AlleVerzierungenEntfernen – Turquoise – Red, Red, Green
+
+Tag:   Joker   – Grey   – Turquoise, Purple, Blue
+Nacht: Embargo – Purple – Red, Red, Green
+
+Tag:   Joker   – Grey – Red, Blue, Grey
+Nacht: Embargo – Red  – Turquoise, Green, Grey
+
+Tag:   Joker   – Grey      – Purple, Grey, Grey
+Nacht: Embargo – Turquoise – Purple, Purple, Green
+
+Tag:   AlleVerzierungenEntfernen – Blue   – Purple, Purple, Grey
+Nacht: Joker                     – Purple – Purple, Green, Blue
+
+Tag:   AlleVerzierungenEntfernen – Green  – Turquoise, Turquoise, Grey
+Nacht: Joker                     – Purple – Red, Purple, Green
+
+Tag:   AlleVerzierungenEntfernen – Grey   – Red, Turquoise, Green
+Nacht: Joker                     – Purple – Turquoise, Purple, Blue
+
+Tag:   AlleVerzierungenEntfernen – Blue – Red, Purple, Grey
+Nacht: Joker                     – Red  – Purple, Blue, Blue
+
+Tag:   AlleVerzierungenEntfernen – Green – Turquoise, Purple, Grey
+Nacht: Joker                     – Red   – Purple, Green, Blue
+
+Tag:   AlleVerzierungenEntfernen – Grey – Purple, Purple, Grey
+Nacht: Joker                     – Red  – Purple, Blue, Grey
+
+Tag:   Embargo – Blue      – Turquoise, Turquoise, Grey
+Nacht: Joker   – Turquoise – Red, Green, Green
+
+Tag:   Embargo – Green     – Red, Grey, Grey
+Nacht: Joker   – Turquoise – Turquoise, Turquoise, Blue
+
+Tag:   Embargo – Grey      – Turquoise, Turquoise, Green
+Nacht: Joker   – Turquoise – Purple, Purple, Blue
+
+Tag:   Joker     – Blue   – Purple, Green, Blue
+Nacht: Überfluss – Purple – Red, Green, Blue, Blue
+
+Tag:   Joker     – Blue – Turquoise, Blue, Grey
+Nacht: Überfluss – Red  – Red, Turquoise, Purple, Green
+
+Tag:   Joker     – Blue      – Purple, Blue, Grey
+Nacht: Überfluss – Turquoise – Purple, Green, Green, Blue
+
+Tag:   Joker  – Green  – Turquoise, Purple, Green
+Nacht: Ablass – Purple – Red, Turquoise, Green
+
+Tag:   Joker  – Green – Turquoise, Blue, Grey
+Nacht: Ablass – Red   – Purple, Green, Blue
+
+Tag:   Joker  – Green     – Turquoise, Purple, Green
+Nacht: Ablass – Turquoise – Turquoise, Green, Green
+
+Tag:   Joker  – Grey   – Red, Red, Grey
+Nacht: Ablass – Purple – Turquoise, Green, Blue
+
+Tag:   Joker  – Grey – Turquoise, Purple, Green
+Nacht: Ablass – Red  – Red, Green, Green
+
+Tag:   Joker  – Grey      – Turquoise, Green, Grey
+Nacht: Ablass – Turquoise – Purple, Green, Green
+
+Tag:   Überfluss – Blue   – Turquoise, Green, Green, Blue
+Nacht: Joker     – Purple – Turquoise, Purple, Grey
+
+Tag:   Überfluss – Green  – Turquoise, Turquoise, Green, Grey
+Nacht: Joker     – Purple – Purple, Purple, Green
+
+Tag:   Überfluss – Grey   – Turquoise, Blue, Blue, Grey
+Nacht: Joker     – Purple – Red, Turquoise, Grey
+
+Tag:   Ablass – Blue – Purple, Green, Green
+Nacht: Joker  – Red  – Red, Green, Grey
+
+Tag:   Ablass – Green – Red, Purple, Grey
+Nacht: Joker  – Red   – Red, Blue, Grey
+
+Tag:   Ablass – Grey – Red, Blue, Blue
+Nacht: Joker  – Red  – Red, Green, Grey
+
+Tag:   Ablass – Blue      – Red, Red, Blue
+Nacht: Joker  – Turquoise – Red, Grey, Grey
+
+Tag:   Ablass – Green     – Turquoise, Blue, Grey
+Nacht: Joker  – Turquoise – Red, Green, Blue
+
+Tag:   Ablass – Grey      – Red, Green, Blue
+Nacht: Joker  – Turquoise – Turquoise, Purple, Grey
+
+Tag:   Joker   – Blue   – Red, Purple, Grey
+Nacht: Händler – Purple – Turquoise, Purple, Green, Blue
+
+Tag:   Joker   – Blue – Turquoise, Green, Green
+Nacht: Händler – Red  – Purple, Green, Blue, Grey
+
+Tag:   Joker   – Blue      – Turquoise, Purple, Grey
+Nacht: Händler – Turquoise – Red, Turquoise, Purple, Blue
+
+Tag:   Joker   – Green  – Purple, Purple, Grey
+Nacht: Händler – Purple – Red, Red, Turquoise, Grey
+
+Tag:   Joker   – Green – Turquoise, Green, Blue
+Nacht: Händler – Red   – Turquoise, Purple, Green, Grey
+
+Tag:   Joker   – Green     – Red, Turquoise, Blue
+Nacht: Händler – Turquoise – Red, Turquoise, Blue, Grey
+
+Tag:   Joker     – Grey   – Turquoise, Purple, Grey
+Nacht: Überfluss – Purple – Purple, Green, Green, Blue
+
+Tag:   Joker     – Grey – Red, Purple, Grey
+Nacht: Überfluss – Red  – Red, Purple, Purple, Blue
+
+Tag:   Joker     – Grey      – Red, Purple, Blue
+Nacht: Überfluss – Turquoise – Purple, Purple, Blue, Grey
+
+Tag:   Händler – Blue   – Red, Red, Green, Green
+Nacht: Joker   – Purple – Purple, Blue, Grey
+
+Tag:   Händler – Green  – Turquoise, Purple, Purple, Grey
+Nacht: Joker   – Purple – Red, Green, Blue
+
+Tag:   Händler – Grey   – Red, Red, Green, Blue
+Nacht: Joker   – Purple – Purple, Green, Green
+
+Tag:   Händler – Blue – Red, Red, Turquoise, Green
+Nacht: Joker   – Red  – Red, Purple, Green
+
+Tag:   Händler – Green – Purple, Purple, Green, Grey
+Nacht: Joker   – Red   – Red, Turquoise, Blue
+
+Tag:   Händler – Grey – Turquoise, Blue, Grey, Grey
+Nacht: Joker   – Red  – Red, Purple, Grey
+
+Tag:   Überfluss – Blue      – Red, Red, Red, Green
+Nacht: Joker     – Turquoise – Purple, Blue, Grey
+
+Tag:   Überfluss – Green     – Turquoise, Blue, Grey, Grey
+Nacht: Joker     – Turquoise – Red, Red, Blue
+
+Tag:   Überfluss – Grey      – Red, Red, Green, Grey
+Nacht: Joker     – Turquoise – Red, Turquoise, Green
+
+Tag:   Joker                             – Blue   – Turquoise, Turquoise, Grey
+Nacht: ZusätzlichesKettengliedAusspielen – Purple – Turquoise, Purple, Green, Grey
+
+Tag:   Joker                             – Blue – Turquoise, Green, Grey
+Nacht: ZusätzlichesKettengliedAusspielen – Red  – Red, Green, Blue, Grey
+
+Tag:   Joker                             – Blue      – Red, Green, Green
+Nacht: ZusätzlichesKettengliedAusspielen – Turquoise – Red, Green, Grey, Grey
+
+Tag:   Joker       – Green  – Red, Purple, Green
+Nacht: Goldschmied – Purple – Red, Turquoise, Blue, Grey
+
+Tag:   Joker       – Green – Red, Red, Green
+Nacht: Goldschmied – Red   – Red, Turquoise, Blue, Grey
+
+Tag:   Joker       – Green     – Red, Purple, Blue
+Nacht: Goldschmied – Turquoise – Red, Turquoise, Turquoise, Green
+
+Tag:   Joker       – Grey   – Turquoise, Purple, Blue
+Nacht: Goldschmied – Purple – Red, Red, Red, Green
+
+Tag:   Joker       – Grey – Turquoise, Turquoise, Green
+Nacht: Goldschmied – Red  – Red, Green, Blue, Blue
+
+Tag:   Joker       – Grey      – Turquoise, Blue, Blue
+Nacht: Goldschmied – Turquoise – Turquoise, Purple, Purple, Green
+
+Tag:   ZusätzlichesKettengliedAusspielen – Blue   – Red, Turquoise, Green, Grey
+Nacht: Joker                             – Purple – Turquoise, Green, Green
+
+Tag:   ZusätzlichesKettengliedAusspielen – Green  – Red, Turquoise, Purple, Green
+Nacht: Joker                             – Purple – Purple, Green, Blue
+
+Tag:   ZusätzlichesKettengliedAusspielen – Grey   – Turquoise, Turquoise, Purple, Grey
+Nacht: Joker                             – Purple – Red, Purple, Grey
+
+Tag:   Goldschmied – Blue – Turquoise, Blue, Blue, Grey
+Nacht: Joker       – Red  – Red, Turquoise, Grey
+
+Tag:   Goldschmied – Green – Turquoise, Turquoise, Grey, Grey
+Nacht: Joker       – Red   – Purple, Purple, Green
+
+Tag:   Goldschmied – Grey – Red, Red, Blue, Blue
+Nacht: Joker       – Red  – Purple, Green, Green
+
+Tag:   Goldschmied – Blue      – Purple, Blue, Blue, Grey
+Nacht: Joker       – Turquoise – Red, Purple, Grey
+
+Tag:   Goldschmied – Green     – Turquoise, Turquoise, Green, Blue
+Nacht: Joker       – Turquoise – Red, Green, Blue
+
+Tag:   Goldschmied – Grey      – Red, Turquoise, Turquoise, Grey
+Nacht: Joker       – Turquoise – Red, Blue, Grey
+
+Tag:   Joker                 – Blue   – Red, Blue, Grey
+Nacht: GöttlicheIntervention – Purple – Red, Red, Green, Grey
+
+Tag:   Joker                 – Blue – Turquoise, Green, Blue
+Nacht: GöttlicheIntervention – Red  – Purple, Purple, Blue, Blue
+
+Tag:   Joker                             – Green  – Turquoise, Purple, Grey
+Nacht: ZusätzlichesKettengliedAusspielen – Purple – Red, Turquoise, Purple, Grey
+
+Tag:   Joker                 – Green     – Turquoise, Purple, Green
+Nacht: GöttlicheIntervention – Turquoise – Red, Red, Blue, Grey
+
+Tag:   Joker                             – Grey – Turquoise, Green, Grey
+Nacht: ZusätzlichesKettengliedAusspielen – Red  – Purple, Purple, Blue, Blue
+
+Tag:   Joker                             – Grey      – Red, Red, Green
+Nacht: ZusätzlichesKettengliedAusspielen – Turquoise – Red, Green, Blue, Grey
+
+Tag:   GöttlicheIntervention – Blue   – Turquoise, Purple, Grey, Grey
+Nacht: Joker                 – Purple – Turquoise, Turquoise, Blue
+
+Tag:   GöttlicheIntervention – Green  – Red, Green, Green, Blue
+Nacht: Joker                 – Purple – Turquoise, Purple, Green
+
+Tag:   ZusätzlichesKettengliedAusspielen – Blue – Turquoise, Purple, Green, Blue
+Nacht: Joker                             – Red  – Red, Blue, Blue
+
+Tag:   GöttlicheIntervention – Grey – Purple, Purple, Purple, Grey
+Nacht: Joker                 – Red  – Turquoise, Turquoise, Grey
+
+Tag:   ZusätzlichesKettengliedAusspielen – Green     – Purple, Green, Blue, Grey
+Nacht: Joker                             – Turquoise – Turquoise, Green, Grey
+
+Tag:   ZusätzlichesKettengliedAusspielen – Grey      – Purple, Green, Blue, Blue
+Nacht: Joker                             – Turquoise – Turquoise, Purple, Grey
