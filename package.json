@@ -1,0 +1,17 @@
+{
+  "name": "maats-prinzip-randomgen",
+  "main": "dist/main.js",
+  "version": "1.0.0",
+  "description": "A random gen for Maats Prinzip gems distribution.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch": "tsc -w",
+    "tsc": "tsc",
+    "start": "node ./dist/main.js"
+  },
+  "author": "Lukas Obermann, Thorben Dusenstahl",
+  "license": "MPL-2.0",
+  "devDependencies": {
+    "typescript": "3.6.3"
+  }
+}
